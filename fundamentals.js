@@ -16,7 +16,6 @@ else {
 
 }
 
-
 // 3. array declare
 // index, 
 // length, push
